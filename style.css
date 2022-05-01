@@ -3,3 +3,24 @@ nav{
     background-color: rgb(6, 38, 66);
     position: sticky;
 }
+.container1{
+margin: 50px;
+}
+.container2{
+    margin: 50px;
+}
+#contact_us iframe{
+    width: 100%;
+}
+.head_my_movie{
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.head_my_movie i {
+    float: right;
+}
+#contact_us{
+    margin: 50px;
+}
